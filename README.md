@@ -23,7 +23,7 @@ DICE_ART pour la réalisation des différentes faces des dés
 - ajout d'une interface graphique 
 
 ## Auteur
-Virginie, février 2022
+Virginie Evrard, février 2022
 
 ## Remerciements
 J'ai réalisé mon application de lancer dés en suivant les explications d'un article sur Real Python.
