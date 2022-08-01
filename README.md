@@ -3,6 +3,8 @@ Application de lancer de dés en Python
 
 Application qui simule le lancer de dés de façon aléatoire, de 1 à 6 dés. Après chaque lancer, l'application génère un diagramme ASCII des faces de dés et l'affiche à l'écran.
 
+Lancer le programme dans le terminal avec : python dice.py
+
 ## Détails
 random.randint() pour simuler des évènements de lancer de dés
 
