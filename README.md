@@ -23,9 +23,9 @@ DICE_ART pour la réalisation des différentes faces des dés
 - ajout d'une interface graphique 
 
 ## Auteur
-Virginie, fev 04 2022
+Virginie, février 2022
 
 ## Remerciements
-J'ai réaliser mon application de lancer dés en suivant les explications d'un article sur Real Python.
+J'ai réalisé mon application de lancer dés en suivant les explications d'un article sur Real Python.
 Merci à l'auteur Leonidas Pozo Ramos, d'avoir écrit cet article 'Build a Dice-Rolling Application With Python' sur le site de Real Python, qui m'aura permis d'améliorer mes compétences en programmation Python. 
 Lien pour l'article : https://realpython.com/python-dice-roll/
